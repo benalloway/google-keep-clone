@@ -291,6 +291,8 @@
   
   #color-tooltip {
     border-bottom: 2px solid #fff;
+    padding: 10px;
+    align-items: center;
     position: absolute;
     top: -40;
     background: #fff;
